@@ -1,0 +1,12 @@
+@@ -0,0 +1,11 @@
+using namespace std
+int main()
+{
+cout<<"Hiba,internsprint";
+}
+#include<iostream>
+using namespace std;
+int main()
+{
+cout<<"Hiba,internsprint";
+}
